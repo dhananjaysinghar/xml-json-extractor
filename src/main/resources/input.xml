@@ -1,0 +1,19 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" 
+		xmlns:biz="http://oldmutual.com/bizagicreatecasemanagementcase/bizagicreatecasemanagementcaserequest">
+<soapenv:Header/>
+<soapenv:Body>
+<biz:BizagiCreateCaseManagementCaseRequest>
+<biz:RadNumber>12</biz:RadNumber>
+<biz:CorrelationID>coId</biz:CorrelationID>
+<biz:PayloadType>Admin</biz:PayloadType>
+<biz:FirstPayLoad/>
+<biz:Application>
+<biz:ApplicationInstanceNumber/>
+<biz:CarmaGroupingKey/>
+<biz:Party>
+<biz:BancsBPKey/>
+</biz:Party>
+</biz:Application>
+</biz:BizagiCreateCaseManagementCaseRequest>
+</soapenv:Body>
+</soapenv:Envelope>
