@@ -10,7 +10,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<jackon-version>2.10.0</jackon-version>
+		<jackon-version>2.13.4.1</jackon-version>
 	</properties>
 
 	<dependencies>
